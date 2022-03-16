@@ -193,4 +193,4 @@ def main(username, password):
     logging('!',"Almost Done! (programer : mightnire@github)")
 
 if __name__ == '__main__':
-    main('2020030816', 'whrj123456!@')
+    main('', '')
